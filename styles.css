@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+header {
+    border: 2px solid;
+    border-color: black;
+}
+
+nav {
+    border: 2px solid;
+    border-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+section {
+    border: 2px solid;
+    float: left;
+    border-color: black;
+    padding-right: 60px;
+}
+
+aside {
+    border: 2px solid;
+    border-color: black;
+    padding-bottom: 108px;
+}
+
+
+footer {
+    border: 3px solid;
+    border-color: black;
+}
